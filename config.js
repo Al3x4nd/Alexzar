@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/Al3x4nd/Alexzar";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/5586498428951fc1a0f21.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ" 
+global.caption = process.env.CAPTION || global.caption || "༒ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝕶𝖎𝖓𝖌𝖘𝖚𝖐𝖚𝖓𝖆༒" 
 
 
 global.devs = "923184474176" // Developer Contact
@@ -72,7 +72,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.8",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : global.caption || "༒ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝕶𝖎𝖓𝖌𝖘𝖚𝖐𝖚𝖓𝖆༒" , // ```『 ༒ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝕶𝖎𝖓𝖌𝖘𝖚𝖐𝖚𝖓𝖆༒ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "𝐵𝑈𝐷𝐷𝑌_𝐵𝛩𝑇",
   packname: process.env.PACK_NAME || "卂ㄥ乇乂乙卂尺",
